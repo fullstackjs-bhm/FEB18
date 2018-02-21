@@ -18,14 +18,14 @@ require('includes/header.php');
 	<div class="row">
 		<div class="col-12 mb-5 text-center">
 
-		<form action="blank" method="post">
+		<form id="frm" action="blank" method="post">
 			<label class="formLabel" for="firstName" >  First Name: </label><br>
 			<input type="text" name="firstName" id="firstName"  required><br>
 
 			<label  class="formLabel" for="lastName"> Last Name: </label><br>
 			<input type="text" name="lastName" id="lastName"  required><br>
 
-			<label class="formLabel" id="mail" for="email">  Email: </label>
+			<label class="formLabel" for="email">  Email: </label>
 			<br>
 			<input type="text" name="email" id="email" required><br>
 
