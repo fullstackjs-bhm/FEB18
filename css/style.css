@@ -798,3 +798,46 @@ input[type=text]{
 	z-index: 10;
 	margin-top: 4%;
 }
+
+/*CSS for general info form*/
+
+
+
+
+.formLabel {
+	padding: .625em;
+	font-weight:bold; 
+	
+	font-size: 1.3em;
+}
+
+#infoTag {
+	border-bottom: 2px solid #AB61C4;
+}
+
+
+#mail {
+	margin-right: 2.5em;
+	
+}
+
+#firstName {
+	text-transform: capitalize;
+	width: 50%;
+
+}
+
+#lastName {
+	text-transform: capitalize;
+	width: 50%;
+}
+
+#email {
+	width: 50%;
+	margin-bottom: 3.2em;
+}
+#beginBtn {
+	margin-bottom: .625em;
+}
+
+
