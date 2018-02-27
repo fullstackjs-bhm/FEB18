@@ -7,7 +7,7 @@ require('includes/header.php');
 	<div class="container">
 		<div class="row">
 			<div id="infoTag" class="col-12 mt-5 text-center">
-				<h1>General Information</h1>
+				<h1>Assessment Form</h1>
 				<p>
 				Thank you for your interest in the Full-Stack Web Development Program.<br/>
 				Please provide your name and email address before continuing on to the exam.
@@ -29,7 +29,7 @@ require('includes/header.php');
 			<br>
 			<input type="text" name="email" id="email" required><br>
 
-			<button type="button" id="beginBtn" class="btn btn-success btn-lg text-center">Begin Test</button>
+			<button type="button" id="beginBtn" class="btn btn-success btn-lg text-center">Take Assessment</button>
 
 		</form>
     </div>
