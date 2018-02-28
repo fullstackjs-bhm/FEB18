@@ -19,7 +19,7 @@ function validateFrm(e) {
 		frm.submit();
 	}
 
-	error.innerHTML = 'Please fill out the form completely!';
+	error.innerHTML = '<p>**First name must be at least two characters!** </p> <p>**Last name must be at least two characters!**</p><p>**Please enter a valid email address!**</p>';
 
 	firstName.value = "";
 	lastName.value = "";

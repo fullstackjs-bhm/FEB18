@@ -840,7 +840,9 @@ input[type=text]{
 	margin-bottom: .625em;
 }
 
-
+#error {
+	color: red;
+}
 
 /**********************************
 		Test Page
@@ -910,26 +912,23 @@ h4#tQuestion{
 	line-height: 1em;
 }
 
-#nextBTN{
+.btn{
 	width: 75%;
 	height: 45px;	
 	margin-top: 15px;
-	margin-bottom: 15px;
 	margin-left: ;
 	font-size: 1.2em;
 }
 
-#radBtn{
-	margin-left: 20%;	
+#radBtn{	
 	width: 20px;
 	height: 20px;
-	z-index: 1;
 }
 
 
 #ansBox{
 	margin: 0 auto;
-	width: 65%;
+	width: 75%;
 	height: 120px;
 
 
