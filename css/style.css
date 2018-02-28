@@ -910,23 +910,26 @@ h4#tQuestion{
 	line-height: 1em;
 }
 
-.btn{
+#nextBTN{
 	width: 75%;
 	height: 45px;	
 	margin-top: 15px;
+	margin-bottom: 15px;
 	margin-left: ;
 	font-size: 1.2em;
 }
 
-#radBtn{	
+#radBtn{
+	margin-left: 20%;	
 	width: 20px;
 	height: 20px;
+	z-index: 1;
 }
 
 
 #ansBox{
 	margin: 0 auto;
-	width: 75%;
+	width: 65%;
 	height: 120px;
 
 
