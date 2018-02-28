@@ -26,8 +26,29 @@
     	 			<h2 class="col-12 text-center mt-3 underline">WHO IS FULL STACK FOR?</h2>
     	 			<p>If any individual desires to change careers or take on a new challenge in the information technology industry as a web developer, well this is the course that makes it possible. One can acquire the necessary knowledge very quickly, without two and four years of normal academic commitment, and gain the skills they will need to pursue an ever growing and expanding career in the world of Information Technology.</p>
 
-            <p>With entry-level salaries starting at $40k per year, web development has become one of the most highly sought after skills today. Employers are always looking for new talent in this field, as it is and will be in-demand a great deal as we progress in the future.</p>
+            <p>With entry-level salaries starting at $40k per year, web development has become one of the most highly sought after skills today. Employers are always looking for new talent in this field, as it is and will be in-demand a great deal as we progress in the future.</p>           
+
     	 	  </div>
+           <div class="container-fluid mt-5 infoArea">
+        <div class="container"> 
+         <div class="row">
+            <div class="col text-center">
+              <h1>Full Stack Assessment</h1>
+              <p>Please take this Assessment prior to registering for the Full Stack Web Development Course</p>
+              
+          
+
+          
+              <h2 class="my-2 d-block">Click here to take the Assessment Now!</h2>
+              
+                <a href="assessmentForm.php">
+                <button  class="mt-2 btn-lg btn-success">Take Assessment</button></a>
+              </form>  
+            </div>
+          </div>
+        </div>
+      </div> 
+
     	 	</div>
     	</div> 
 
