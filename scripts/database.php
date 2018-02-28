@@ -1,8 +1,8 @@
 <?php
 //Database Info
-$db_host = "localhost";       //db host
-$db_name = "fsbhmentry_db";   // db name
-$db_username = "root";       //db username
+$db_host = "";       //db host
+$db_name = "";   // db name
+$db_username = "";       //db username
 $db_password = "";          // db password
 //PDO PHP Data Object
 //Creates Object to allow for DB connection
