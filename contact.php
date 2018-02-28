@@ -16,11 +16,9 @@
 			
 
 			<div>
-				<img src="img/founder.png" class="img-fluid my-3"><img src="img/founder.png" class="img-fluid my-3"><img src="img/founder.png" class="img-fluid my-3">
-
-				<p>If any individual desires to change careers or take on a new challenge in the information technology industry as a web developer, well this is the course that makes it possible! If you have any additional questions, please complete our contact form for additional information.</p>
-				
-				<img src="img/founder.png" class="img-fluid my-3"><img src="img/founder.png" class="img-fluid my-3"><img src="img/founder.png" class="img-fluid my-3">
+				<p>
+					If any individual desires to change careers or take on a new challenge in the information technology industry as a web developer, well this is the course that makes it possible! If you have any additional questions, please complete our contact form for additional information.
+				</p>
 			</div>
 		</div>
 	</div>
