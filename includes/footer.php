@@ -57,6 +57,7 @@
 
     <!-- navMenu Script -->
     <script type="text/javascript" src="js/navMenu.js"></script>
+    <script src="scripts/form.js"></script>
     
   </body>
 </html>
