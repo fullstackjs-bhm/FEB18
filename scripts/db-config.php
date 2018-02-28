@@ -1,8 +1,8 @@
 <?php 
 	
-	$db = 'fsbhmprod_db'; //DB NAME
-	$host = 'localhost';//DB HOST OR URL
-	$username = 'root';//DB USERNAME
+	$db = ''; //DB NAME
+	$host = '';//DB HOST OR URL
+	$username = '';//DB USERNAME
 	$password = '';//DB PASSWORD
 
 //Create DB connnection using PDO Object
