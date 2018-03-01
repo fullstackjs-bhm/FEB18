@@ -1,3 +1,16 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: #ad5389;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(#3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
+	
+}
+
 /* ** Fonts **/
 h1, h2, h3{
 	font-family: 'Teko', sans-serif;
@@ -848,7 +861,7 @@ input[type=text]{
 		Test Page
 **********************************/
 
-#Nav{
+#header-no-nav{
     top: 0px;
     left: 0;
     width: 100%;
@@ -859,27 +872,31 @@ input[type=text]{
     margin: 0;
 }
 
-#Nav div.logo img{
-	width: 170px;	
-	margin-left: 30px; 
-	margin-bottom: 5px;
+
+#testAreaContent p{
+	color: #fff;
+	margin: 0 auto;
+	font-size: 2em;
+	font-weight: bold;
 }
 
-#Nav div.fullMenu{
-	padding: 0;
+.ansContainer{
+	background-color: #fff;
+	color: #2d2d2d;
 }
 
-#testContent{
-	background: #ad5389;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to top, #3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to top, #ad5389, #3c1053 ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-	position: relative;
-	display: ;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	margin-top: 0;
+.ansContainer:hover{
+	background-color: #2d2d2d;
+	color: #fff;
+}
+
+.ansContainer input{
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+.ansContainer span{
+	font-size: 1.6em;
 }
 
 #answerChoice{

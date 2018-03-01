@@ -1,8 +1,8 @@
 <?php
 //Database Info
-$db_host = "";       //db host
-$db_name = "";   // db name
-$db_username = "";       //db username
+$db_host = "localhost";       //db host
+$db_name = "fsbhm_db";   // db name
+$db_username = "root";       //db username
 $db_password = "";          // db password
 //PDO PHP Data Object
 //Creates Object to allow for DB connection
@@ -16,11 +16,6 @@ try{
 	die();
 }
 //Query to database
-$query = "insert into `questions` (question, options, answer) values ('To be or not to be?', 'yes, no, maybe', 'a')";
-
-$stmnt = $conn->prepare($query);
-$stmnt->execute();
-$stmnt->closeCursor();
 
 
 
