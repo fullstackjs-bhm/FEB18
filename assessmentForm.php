@@ -18,7 +18,7 @@ require('includes/header.php');
 	<div class="row">
 		<div class="col-12 mb-5 text-center">
 		<div id="error"></div>
-		<form id="frm" action="" method="post">
+		<form id="frm" action="assessment.php" method="post">
 			<label class="formLabel" for="firstName" >  First Name: </label><br>
 			<input type="text" name="firstName" id="firstName"  required><br>
 
