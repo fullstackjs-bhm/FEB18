@@ -1,15 +1,4 @@
-html {
-    height: 100%;
-}
-body {
-    height: 100%;
-    margin: 0;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background: #ad5389;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(#3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
-	
-}
+
 
 /* ** Fonts **/
 h1, h2, h3{
@@ -868,7 +857,7 @@ input[type=text]{
     background-color: #000;
    
     z-index: 0;
-    padding: 10px 10px 0 10px;
+    padding: 0px 0px 0px 0px;
     margin: 0;
 }
 
@@ -878,6 +867,7 @@ input[type=text]{
 	margin: 0 auto;
 	font-size: 2em;
 	font-weight: bold;
+
 }
 
 .ansContainer{
@@ -929,7 +919,7 @@ h4#tQuestion{
 	line-height: 1em;
 }
 
-.btn{
+#nextBTN{
 	width: 75%;
 	height: 45px;	
 	margin-top: 15px;

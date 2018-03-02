@@ -3,6 +3,20 @@
 <head>
 	<meta charset="UTF-8">
 	<title>fsTest</title>
+    <style type="text/css">
+        html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: #ad5389;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(#3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
+    
+}
+     </style>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
         
@@ -29,19 +43,7 @@
     <div class="container-fluid" id="header-no-nav">
       <nav>
         <div class="col-6 col-md-4 d-inline logo">
-          <img src="img/bhmLogo.png" alt="Full-Stack Logo" />
+          <img class="img-fluid" src="img/bhmLogo.png" alt="Full-Stack Logo" />
         </div>
       </nav>
-    </div>
-
-    <div class="container">
-        <div class="row">
-            <div id="testAreaContent" class="col-12 col-md-8 mx-auto my-3">
-                <p class="my-3">1. I have a question, are your shoes tied?</p>
-                <div id="optionA" class="ansContainer my-2"><input type="radio" name="answerOne" value="a" /> <span>Answer A</span></div>
-                <div id="optionB" class="ansContainer my-2"><input type="radio" name="answerOne" value="b" />  <span>Answer B</span></div>
-                <div id="optionC" class="ansContainer my-2"><input type="radio" name="answerOne" value="c" />  <span>Answer C</span></div>
-                <div id="optionD" class="ansContainer my-2"><input type="radio" name="answerOne" value="d" />  <span>Answer D</span></div>
-            </div>
-        </div>
     </div>

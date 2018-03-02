@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"container",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"fadeIn",
+				"fadeIn( event )\teditor-expand.js"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"btn-se",
+				"btn-outline-success \tBootstrap 4 Class"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"list",
+				"list-n\tlist-style-type: none;"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"ab",
+				"AB61C4"
+			],
+			[
+				"text-left",
+				"text-left \tBootstrap 4 Class"
+			],
+			[
+				"text",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"tex",
+				"text-decoration-color"
+			],
+			[
+				"POS",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"text-decor",
+				"text-decoration"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"progressB",
+				"progress-bar-animated \tBootstrap 4 Class"
+			],
+			[
+				"obj",
+				"object-position"
+			],
+			[
+				"contain",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text-deco",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"pos",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"ov",
+				"ov-s\toverflow: scroll;"
+			],
+			[
+				"fl",
+				"fl-r\tfloat: right;"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html5"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				" package control:",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"lom",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 212.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/projects/FEB2018/contact.php",
+		"/C/xampp/htdocs/projects/phpThing/index.php",
+		"/C/xampp/htdocs/projects/actualPort/Resume/resume.html",
+		"/C/Program Files/Git/mingw64/doc/git-credential-manager/README.md",
+		"/C/Program Files/Git/mingw64/etc/gitattributes",
+		"/C/Program Files/Git/mingw64/etc/pki/ca-trust/extracted/openssl/ca-bundle.trust.crt",
+		"/C/Program Files/Git/mingw64/etc/gitconfig",
+		"/C/Program Files/Git/usr/ssl/cert.pem",
+		"/C/Program Files/Git/mingw64/ssl/openssl.cnf",
+		"/C/Program Files/Git/etc/ssh/sshd_config",
+		"/C/Program Files/Git/etc/ssh/ssh_config",
+		"/C/Program Files/Git/usr/share/vim/vim80/ftplugin/gitconfig.vim",
+		"/C/Program Files/Git/usr/share/vim/vim80/syntax/gitconfig.vim",
+		"/C/Program Files/Git/usr/share/vim/vim80/indent/gitconfig.vim",
+		"/C/xampp/htdocs/projects/class1/exercises1.php",
+		"/C/xampp/htdocs/projects/FormAct/js/scripts.js",
+		"/C/xampp/htdocs/projects/FormAct/css/styles.css",
+		"/C/xampp/htdocs/projects/myPage/index.php",
+		"/C/xampp/htdocs/projects/myPage/css/styles.css",
+		"/C/xampp/htdocs/projects/MyPort2/js/scripts.js",
+		"/C/xampp/htdocs/projects/MyPort2/css/styles.css",
+		"/C/xampp/htdocs/projects/MyPort2/index.html",
+		"/C/xampp/htdocs/projects/1221Page/styles.css",
+		"/C/xampp/htdocs/projects/1221Page/index.html",
+		"/C/xampp/htdocs/projects/MyPort/css/styles.css",
+		"/C/xampp/htdocs/projects/MyPort/index.html",
+		"/C/xampp/htdocs/projects/mybootstrap.html",
+		"/C/xampp/htdocs/projects/myPage/index.html",
+		"/C/xampp/htdocs/projects/myPage/css/resetCSS.css",
+		"/C/xampp/htdocs/projects/resume/index.html",
+		"/C/xampp/htdocs/projects/myPage/about.html",
+		"/C/xampp/htdocs/projects/actualPort/index.html",
+		"/C/xampp/htdocs/projects/css/styles.css",
+		"/C/xampp/htdocs/projects/class1/83exercise/index.html",
+		"/C/xampp/htdocs/projects/mypage/mypage.index",
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/C/xampp/htdocs/projects/ActualPort/Resume/resume.css",
+		"/C/xampp/htdocs/projects/ActualPort/css/style.css",
+		"/C/xampp/htdocs/projects/ActualPort/index.html",
+		"/C/xampp/htdocs/projects/ActualPort/Resume/resume.html",
+		"/C/xampp/htdocs/projects/fullstackjs-bhm/OCT2017/contact.php",
+		"/C/xampp/htdocs/projects/fullstackjs-bhm/OCT2017/css/style.css",
+		"/C/xampp/htdocs/projects/fullstackjs-bhm/OCT2017/events.php",
+		"/C/xampp/htdocs/projects/fullstackjs-bhm/OCT2017/includes/footer.php",
+		"/C/xampp/htdocs/projects/fullstackjs-bhm/OCT2017/alumni.php",
+		"/C/xampp/htdocs/projects/fullstackjs-bhm/OCT2017/includes/header.php",
+		"/C/xampp/htdocs/projects/fullstackjs-bhm/OCT2017/index.php",
+		"/C/xampp/htdocs/projects/fullstackjs-bhm/OCT2017/index.html",
+		"/C/xampp/htdocs/projects/fullstackjs-bhm/OCT2017/css/font-awesome.css",
+		"/C/xampp/htdocs/projects/fullstackjs-bhm/OCT2017/styles.css",
+		"/C/xampp/htdocs/projects/Portfolio/css/styles.css",
+		"/C/xampp/htdocs/projects/drafts/draft.css",
+		"/C/xampp/htdocs/projects/Portfolio/index.html",
+		"/C/xampp/htdocs/projects/stackjs/phpScripts/name.php",
+		"/C/xampp/htdocs/projects/stackjs/index.php",
+		"/C/xampp/htdocs/projects/stackjs/phpScripts/dbconfig.php",
+		"/C/Users/Steven/Documents/php n mysql/book_apps/ch02_product_discount/display_discount.php",
+		"/C/xampp/htdocs/projects/phpScripts/dbconfig.php",
+		"/C/xampp/htdocs/projects/index.php",
+		"/C/Users/Steven/Documents/php n mysql/book_apps/_create_db/create_db.sql",
+		"/C/Users/Steven/Documents/php n mysql/book_apps/ch01_product_discount/display_discount.php",
+		"/C/Users/Steven/Documents/php n mysql/book_apps/ch01_product_discount/index.html",
+		"/C/xampp/htdocs/projects/mp3Player/js/myPlayer.js",
+		"/C/xampp/htdocs/projects/MusicPlayer/css/mp3.css",
+		"/C/xampp/htdocs/projects/mp3Player/index.html",
+		"/C/xampp/htdocs/projects/mp3Player/css/styles.css",
+		"/C/xampp/htdocs/projects/mp3/index.html",
+		"/C/xampp/htdocs/projects/mp3/css/mp3.css",
+		"/C/xampp/htdocs/projects/mp3/mp3.css",
+		"/C/xampp/htdocs/projects/mp3.css",
+		"/C/xampp/htdocs/projects/83exercise/bootstrap/js/customjs.js",
+		"/C/xampp/htdocs/projects/83exercise/bootstrap/css/custom.css",
+		"/C/xampp/htdocs/projects/83exercise/index.html",
+		"/C/xampp/htdocs/projects/js.js",
+		"/C/xampp/htdocs/projects/8-3 exercise/index.html",
+		"/C/xampp/htdocs/projects/bstest/index.html",
+		"/C/xampp/htdocs/projects/bstest/bootstrap/css/bootstrap.css",
+		"/C/xampp/htdocs/projects/index.html",
+		"/C/xampp/htdocs/projects/test/index.html",
+		"/C/xampp/htdocs/projects/css/style.css",
+		"/C/xampp/htdocs/projects/about.html",
+		"/C/xampp/htdocs/projects/text/index.html",
+		"/C/xampp/htdocs/projects/contact.html",
+		"/C/xampp/htdocs/projects/styles.css",
+		"/C/xampp/htdocs/projects/js/myfile.js",
+		"/C/xampp/htdocs/Projects/index.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\projects\\FEB2018\\index.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
