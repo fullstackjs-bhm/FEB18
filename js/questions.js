@@ -1,56 +1,61 @@
-//var test;
-
-
 $(document).ready(function(){
-	var question = document.getElementById('testQuestion');
-	var optionA = document.getElementById('optionA');
+	var question = document.getElementById('testQuestion'); // destination for question	                              
+	var choice = document.getElementsByName("choice"); // radio name
+
+	// options in series
+	var optionA = document.getElementById('optionA');        
 	var optionB = document.getElementById('optionB');
 	var optionC = document.getElementById('optionC');
 	var optionD = document.getElementById('optionD');
+
+	// button that advances the test
 	var nextBTN = document.getElementById('nextBTN');
-	var userAnswers = [];
-	var index = 0;
-	var qNum = index + 1;
+
+	var userAnswers = [];  // stores Answers
+	var index = 0;         // advances through testJSON
+
+	
 	$.ajax({
 		url: "scripts/testjson.php",
 		type: "GET",
 		dataType: "json",
-		success: function(response){
-			console.log(response);
-			$('.tester').html(response[0].questions + "<br />" + response[0].optionA + "<br />" + response[0].optionB);
-
-
+		success: function(testJSON){
 			
-			// test = response;
-			// return test;
+			//populate text to page
+			function pushQ(){
+				var qNum = index + 1; // Question number                         
+				question.innerHTML = qNum + ". " + testJSON[index].questions;
+				optionA.innerHTML = testJSON[index].optionA;
+				optionB.innerHTML = testJSON[index].optionB;
+				optionC.innerHTML = testJSON[index].optionC;
+				optionD.innerHTML = testJSON[index].optionD;
+				// $.('#nextBTN').addClass('disabled');
+			}
+
+			pushQ();
 			
-			// nextBTN.addEventListener("click", function advanceTest(){
-			// 	console.log(test);
-			// 	// if(test[index] != test[-1]){
-			// 	// 	function nextQ(){
-			// 	// 		// console.log(test);
-			// 	// 		// userAnswers.push(/* */);
-			// 	// 		// index += 1;
-			// 	// 		// question.innerHTML = qNum + "." + test[index].questions;
-			// 	// 		// optionA.innerHTML = test[index].optionA;
-			// 	// 		// optionB.innerHTML = test[index].optionB;
-			// 	// 		// optionC.innerHTML = test[index].optionC;
-			// 	// 		// optionD.innerHTML = test[index].optionD
-			// 	// 	}	
-			// 	// }else{
-			// 	// 	function gradeTest(){
-			// 	// 		/* Russels function */
-			// 	// 	};
-			// 	// }
-			// });
+			// click to advance to next question
 
-
-		}
-		
-	});
-
-
-});
+			nextBTN.addEventListener("mouseup", function advanceTest(){
+				console.log(testJSON[index]);
+				if ( index != testJSON.length ){ //is this the last question?
+					for (var j = 0; j < choice.length; j++){
+						   if (choice[j].checked){
+						    userAnswers.push(choice[j].value);
+						    console.log(userAnswers);
+						    break;
+						}
+					}
+					index += 1;
+					pushQ();
+					
+				}else{ //move to grading
+						
+				} //exit if/else index != testJSON.length
+			}); //exit nextBTN(advanceTest)
+		} // exit success: function(testJSON)		
+	}); //exit ajax
+}); //exit doc.ready
 
 
 
